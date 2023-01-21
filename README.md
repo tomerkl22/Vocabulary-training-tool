@@ -1,7 +1,8 @@
 # Vocabulary-training-tool
 
-This project has been made in 2020 without any further knowleage in Python or SQLITE.
-Developed to ....
+I developed a custom-built vocabulary-training tool,Designed to help me improve my English language skills for my upcoming Israeli SAT test. As I had no prior knowledge of programming languages such as python or SQLITE, I utilized GUI development tools to create a user-friendly graphical interface that allowed me to easily create and manage my own custom word lists.
+
+This project has been made in 2020.
 
 
 
